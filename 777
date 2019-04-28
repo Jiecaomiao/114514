@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>114514</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">最终幻想XIV</a>
+    </div>
+    <div>
+        <ul class="nav navbar-nav">
+            <li><a href="http://ff.sdo.com/web8/index.html#/home">
+                <p class="ensoma">HOME</p>
+                <p class="znsoma">官网首页</p>
+            </a>
+            </li>
+
+            <li><a href="http://act.ff.sdo.com/Project/20181018ffactive/index.html">
+                <p class="ensoma">SCHEDULE</p>
+                <p class="znsoma">最新活动</p>
+            </a>
+            </li>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <p class="ensoma">Job Information</p>
+                    <p class="znsoma">职业金字塔</p><b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><button type="button" class="btn btn-info"><a href="#"data-toggle="popover" title="特指抄股（炒数据）">在raid里不可缺少的职业</a></button></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16126475">龙骑士 </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?pid=243866269">吟游诗人</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12327617">忍者</a></li>
+                    <li><button type="button" class="btn btn-info"><a href="#">radi本里表现出色的职业</a></button></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16518347">召唤士</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=%2014461966&rand=777">机工士</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12609324">白膜法师</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=14503303">战士</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16653760&_ff=-362960">骑士</a></li>
+                    <li><button type="button" class="btn btn-info"><a href="#">在raid本里一般表现的职业</a></button></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12638679">赤魔法师</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12464116">学者</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12615026">白昼学派占星术士</a></li>
+                    <li class="divider"></li>
+                    <li><button type="button" class="btn btn-info"><a href="#">raid里出现率较少的职业</a></button></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16142229">武僧</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=15998189">黑夜学派占星术士</a></li>
+                    <li class="divider"></li>
+                    <li><button type="button" class="btn btn-danger"><a href="#" data-toggle="popover" title="除非能打logs90%以上，不然别进队">
+                        raid本里出现了但是真的没什么用而且输出或者机制处理得不好还要被骂的职业
+                    </a></button></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12514028">暗黑骑士</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=13708258">黑魔法师</a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=11884243">武士</a></li>
+                </ul>
+            </li>
+            <li><button type="button" class="btn btn-default btn-sm">
+                <a href="http://act.ff.sdo.com/20170918Shop/mall.html#/mall"> 商城中心  </button></p></a></li>
+        </ul>
+
+
+    </div>
+
+</nav>
+<video muted="muted" loop="loop" autoplay="autoplay" height="100%" width="100%">
+    <source src="https://static.web.sdo.com/jijiamobile/pic/ff14/190110ffweb/vindex0130_2.mp4" type="video/mp4">
+</video>
+
+<div class="jobguide__content">
+    <p class="jobguide__text">最终幻想XIV中，特定“职业”熟悉到一定程度后可以开放对应的“特职”，从而可修得各种各样的技能。<br>关于各特职的技能/特性，新追加的“职业量谱”，请详见下述。</p>
+    <div class="jobguide__index__joblink clearfix">
+        <div class="jobguide__index__joblink--tank">
+            <h2 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/rFrCBcRe9YrmPvb4fZkuFksSLw.png" width="32" height="32" alt="">防护职业</h2>
+            <div class="jobguide__index__joblink--tank__body">
+                <p class="js__tile_text" style="height: 42px;">HP厚实、防御力优秀，小队中的重要防御角色。<br>擅长吸引敌人的注意力，保护友军。</p>
+                <ul>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=15515070">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NUXU4h6iXzF8HS4BxHKYf7vOa0.png" width="48" height="48" alt="">骑士（剑术师）
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=14503303">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/U3f8Q98TbAeGvg_vXiHGOaa2d4.png" width="48" height="48" alt="">战士（斧术师）
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12514028">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/5JT3hJnBNPZSLAijAF9u7zrueQ.png" width="48" height="48" alt="">暗黑骑士
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="jobguide__index__joblink--healer">
+            <h2 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/V5xx3kfnREBO-2xWbTUW2Csy_Q.png" width="32" height="32" alt="">治疗职业</h2>
+            <div class="jobguide__index__joblink--healer__body">
+                <p class="js__tile_text" style="height: 42px;">用魔法回复受伤友军的治疗角色。<br>减轻友军收到的伤害、解除状态异常，进行复活等。</p>
+                <ul>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12609324">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Na619RGtVtbEvNn1vyFoSlvZ84.png" width="48" height="48" alt="">白魔法师（幻术师）
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12464116">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/2r8fm3U0Io7Pw1XT1tvnjPthp4.png" width="48" height="48" alt="">学者（秘术师）
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12615026">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/g7JY4S1D-9S26VarEuIkPGIrFM.png" width="48" height="48" alt="">占星术士
+                        <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+                    </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="jobguide__index__joblink--dps">
+        <h2 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/laSrEkvlK_7NNbNZ3JErTqzaR8.png" width="32" height="32" alt="">进攻职业</h2>
+        <div class="jobguide__index__joblink--dps__body">
+            <div class="jobguide__index__joblink--dps__inner">
+                <h3 class="clearfix top"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png" width="32" height="32" alt="">近战职业</h3>
+                <p>靠近敌人、以连击为主的近战攻击角色。<br>通过站位能不断地使出强力的攻击。</p>
+                <ul>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16142229">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ce_VQB6VPPJKTGJwxf3h5iujp4.png" width="48" height="48" alt="">武僧（格斗家）
+
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16126475">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zWRkXGJIJhN7WHGGv1gVscRxmA.png" width="48" height="48" alt="">龙骑士（枪术师）
+
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12327617">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/EXvdQYvr1Rn4En8AKssbVwwcac.png" width="48" height="48" alt="">忍者（双剑师）
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=11884243">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ra2GV79gVQhy6SwCrU19boTghc.png" width="48" height="48" alt="">武士
+                        <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+                    </a></li>
+                </ul>
+            </div>
+            <div class="jobguide__index__joblink--dps__inner">
+                <h3 class="clearfix top"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png" width="32" height="32" alt="">远程职业</h3>
+                <p>用远程武器攻击的攻击角色。<br>能够给与持续的伤害，擅长支援友军。</p>
+                <ul class="jobguide__index__joblink--dps__list__mb">
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12336926">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/d7BM1x8OZRZU-9fTk-D7g1t2oc.png" width="48" height="48" alt="">吟游诗人（弓箭手）
+
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=%2014461966&rand=777">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oHLJxTt_OLDK_eQkRTBVNwwxeE.png" width="48" height="48" alt="">机工士
+
+                    </a></li>
+                </ul>
+
+                <h3 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png" width="32" height="32" alt="">魔法职业</h3>
+                <p>用魔法攻击的攻击角色。<br>虽然咏唱时会限制移动，但是瞬间可以给与颇高的伤害。</p>
+                <ul>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=13708258">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png" width="48" height="48" alt="">黑魔法师（咒术师）
+                        <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=16518347">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png" width="48" height="48" alt="">召唤师（秘术师）
+                        <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+                    </a></li>
+                    <li><a href="https://bbs.nga.cn/read.php?tid=12638679">
+                        <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png" width="48" height="48" alt="">赤魔法师
+                        <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+                    </a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <a href="pvpindex.html" class="jobguide__btn">观看PvP技能介绍</a>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script></body>
+</html>
+<h2 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/laSrEkvlK_7NNbNZ3JErTqzaR8.png" width="32" height="32" alt="">进攻职业</h2>
+<div class="jobguide__index__joblink--dps__body">
+    <div class="jobguide__index__joblink--dps__inner">
+        <h3 class="clearfix top"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/9muqitiUXEK0W3qnM33Nb7sATk.png" width="32" height="32" alt="">近战职业</h3>
+        <p>靠近敌人、以连击为主的近战攻击角色。<br>通过站位能不断地使出强力的攻击。</p>
+        <ul>
+            <li><a href="https://bbs.nga.cn/read.php?tid=16142229">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ce_VQB6VPPJKTGJwxf3h5iujp4.png" width="48" height="48" alt="">武僧（格斗家）
+
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=16126475">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/zWRkXGJIJhN7WHGGv1gVscRxmA.png" width="48" height="48" alt="">龙骑士（枪术师）
+
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=12327617">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/EXvdQYvr1Rn4En8AKssbVwwcac.png" width="48" height="48" alt="">忍者（双剑师）
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=11884243">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/Ra2GV79gVQhy6SwCrU19boTghc.png" width="48" height="48" alt="">武士
+                <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+            </a></li>
+        </ul>
+    </div>
+    <div class="jobguide__index__joblink--dps__inner">
+        <h3 class="clearfix top"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oWWxUIO2KagIEhDXy0541MRD7M.png" width="32" height="32" alt="">远程职业</h3>
+        <p>用远程武器攻击的攻击角色。<br>能够给与持续的伤害，擅长支援友军。</p>
+        <ul class="jobguide__index__joblink--dps__list__mb">
+            <li><a href="https://bbs.nga.cn/read.php?tid=12336926">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/d7BM1x8OZRZU-9fTk-D7g1t2oc.png" width="48" height="48" alt="">吟游诗人（弓箭手）
+
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=%2014461966&rand=777">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/oHLJxTt_OLDK_eQkRTBVNwwxeE.png" width="48" height="48" alt="">机工士
+
+            </a></li>
+        </ul>
+
+        <h3 class="clearfix"><img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/8Dnf8Wy9IyxIt21y6lrE5atKt0.png" width="32" height="32" alt="">魔法职业</h3>
+        <p>用魔法攻击的攻击角色。<br>虽然咏唱时会限制移动，但是瞬间可以给与颇高的伤害。</p>
+        <ul>
+            <li><a href="https://bbs.nga.cn/read.php?tid=13708258">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/7JuT00VSwaFqTfcTYUCUnGPFQE.png" width="48" height="48" alt="">黑魔法师（咒术师）
+                <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=16518347">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png" width="48" height="48" alt="">召唤师（秘术师）
+                <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+            </a></li>
+            <li><a href="https://bbs.nga.cn/read.php?tid=12638679">
+                <img src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/NRnqJxzRtbDKR1ZHzxazWBBR2Y.png" width="48" height="48" alt="">赤魔法师
+                <img class="icon" src="https://static.web.sdo.com/jijiamobile/pic/ff14/20170901battle/update.png" alt="">
+            </a></li>
+        </ul>
+    </div>
+
+</div>
+</div>
+<a href="pvpindex.html" class="jobguide__btn">观看PvP技能介绍</a>
+</div></body>
+</html>
